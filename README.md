@@ -10,6 +10,7 @@ I am passionate about the applications of Data Science in the Public Health Sect
 - Proficient in Microsoft Excel
 - Basic understanding of Python
 
+![Alt text](./(https://github.com/Mcannon3/Mcannon3/blob/main/2dae8b12-eb3a-4a0a-b55f-1a511ee1232f%20(1).jpg))
 
 
 <!--
