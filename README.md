@@ -1,4 +1,16 @@
-## Hi there 👋
+# Mary Cannon
+
+## Introduction
+I am an undergraduate student at the University of Notre Dame majoring in Applied Computational Mathematics and Statistics and minoring in Data Science.
+I am passionate about the applications of Data Science in the Public Health Sector.
+
+
+## Technical Skills
+- Proficient in R Software
+- Proficient in Microsoft Excel
+- Basic understanding of Python
+
+
 
 <!--
 **Mcannon3/Mcannon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
