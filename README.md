@@ -13,7 +13,7 @@ I am passionate about the applications of Data Science in the Public Health Sect
 - Proficient in Microsoft Excel
 - Basic understanding of Python
 
-
+Check out my [Data Science Portfolio](https://github.com/Mcannon3/CANNON-Data-Science-Portfolio)
 <!--
 **Mcannon3/Mcannon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
