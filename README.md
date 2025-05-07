@@ -1,38 +1,47 @@
 # Mary Cannon
 
-![My Profile Picture](./profile.jpg)
+🎓 **Undergraduate Student | University of Notre Dame**  
+📊 **Majoring in Applied Computational Mathematics and Statistics**  
+🧠 **Minoring in Data Science | Interested in Public Health Applications**
 
+---
 
-## Introduction
-I am an undergraduate student at the University of Notre Dame majoring in Applied Computational Mathematics and Statistics and minoring in Data Science.
-I am interested in the applications of Data Science in the Public Health Sector.
+## 👋 About Me  
+I am an undergraduate student passionate about applying data science techniques to solve real-world problems, especially in the public health sector. My academic background combines statistical reasoning, computational tools, and machine learning to explore and visualize meaningful data-driven insights.
 
-## Current Projects
-Check out my [Data Science Portfolio](https://github.com/Mcannon3/CANNON-Data-Science-Portfolio)
+---
 
-## Skills
-- Proficient in R Software
-- Proficient in Microsoft Excel
-- Basic understanding of Python
+## 🧠 Skills & Tools
+- **Languages:** Python (Pandas, NumPy, scikit-learn), R  
+- **Tools:** Streamlit, Tableau, Microsoft Excel, Git/GitHub  
+- **Techniques:** Data Cleaning, Data Visualization, Supervised & Unsupervised Machine Learning  
+- **Collaboration:** Experienced with version control and reproducible research practices  
 
-## Goals
-By the end of my semester in Introduction to Data Science I hope to be proficient in Tableau and have a better understanding of machine learning. 
+---
 
-## Contact Links
-Contact me at mcannon3@nd.edu
+## 📂 Featured Projects
+- 🔍 [Basic Data Filtering Streamlit App – Penguin Data Explorer](https://github.com/Mcannon3/CANNON-Data-Science-Portfolio/tree/main/basic_streamlit_app)  
+  An interactive app for exploring penguin data through filters and summary statistics.
 
+- 🏅 [Tidy Data Project – Olympic Medalists](https://github.com/Mcannon3/CANNON-Data-Science-Portfolio/tree/main/TidyData-Project)  
+  Cleaned and transformed Olympic data to follow tidy data principles and created visual summaries.
 
-<!--
-**Mcannon3/Mcannon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤖 [Supervised ML App](https://github.com/Mcannon3/CANNON-Data-Science-Portfolio/tree/main/MLStreamlitApp)  
+  Built a Streamlit application for applying classification models with hyperparameter tuning.
 
-Here are some ideas to get you started:
+- 🔎 [Unsupervised ML App](https://github.com/Mcannon3/CANNON-Data-Science-Portfolio/tree/main/UnsupervisedMLApp)  
+  Interactive tool for exploring clustering and dimensionality reduction techniques on custom datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Current Goals
+- Strengthen my understanding of machine learning theory and practice  
+- Expand visualization skills using Tableau  
+- Continue building and deploying interactive data science tools  
+
+---
+
+## 📫 Contact
+📧 Email: [mcannon3@nd.edu](mailto:mcannon3@nd.edu)  
+🔗 [GitHub Portfolio](https://github.com/Mcannon3/CANNON-Data-Science-Portfolio)
+
