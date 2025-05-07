@@ -1,5 +1,7 @@
 # Mary Cannon
 
+![Profile picture](profile.jpg)
+
 🎓 **Undergraduate Student | University of Notre Dame**  
 📊 **Majoring in Applied Computational Mathematics and Statistics**  
 🧠 **Minoring in Data Science | Interested in Public Health Applications**
@@ -45,3 +47,4 @@ I am an undergraduate student passionate about applying data science techniques 
 📧 Email: [mcannon3@nd.edu](mailto:mcannon3@nd.edu)  
 🔗 [GitHub Portfolio](https://github.com/Mcannon3/CANNON-Data-Science-Portfolio)
 
+![Profile picture](https://your-image-url.com/profile.jpg)
